@@ -19,7 +19,7 @@ function Expert() {
            
          <button className=   'flex p-2 mx-auto my-3 font-mono text-white bg-black rounded hover:bg-green-600' >Get Started</button>
         </div>
-    </div>
+    </div> 
   )
 }
 

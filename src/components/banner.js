@@ -3,7 +3,7 @@ import { TypeAnimation } from 'react-type-animation';
 function Banner() {
   return (
     <div className='w-full h-[500px] bg-slate-900'  >
-        <div className='max-w-[1240px] mx-auto font-semibold text-center py-[100px] '>
+        <div className='max-w-[1240px] mx-auto font-semibold text-center py-[70px] '>
             <div className='p-4 text-2xl text-white md:p-8 md:text-4xl'>Learn  with us</div>
             <div className='p-4 text-3xl text-blue-600 capitalize md:p-6 md:text-6xl'>Grow with us</div>
             <div className='p-4 text-2xl text-white capitalize md:p-5 md:text-4xl'> Learn
