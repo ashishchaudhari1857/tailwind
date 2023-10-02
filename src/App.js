@@ -4,6 +4,7 @@ import Banner from './components/banner';
 import Expert from './components/Expert';
 import Newsletter from './components/Newsletter';
 import Plans from './components/Plans';
+import Footer from './components/Footer';
 function App() {
   return (
    <>
@@ -12,6 +13,7 @@ function App() {
    <Expert></Expert>
    <Newsletter></Newsletter>
    <Plans></Plans>
+   <Footer></Footer>
    </>
   );
 }
